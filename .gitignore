@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.vscode
+modified.xlsx
+State_Location.xlsx
+test*.xlsx
+highlight.xlsx
+Pie.xlsx
+table.xlsx
+image.xlsx
+totals.xlsx
+# all_shifts.xlsx
+combined.xlsx
